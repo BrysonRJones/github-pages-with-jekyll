@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+My name is Bryson Jones. I'm interested in everything: languages, mathematics, computer science, history, etc.
